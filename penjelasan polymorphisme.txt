@@ -1,0 +1,18 @@
+1.	menurut saya polymorphisme adalah memiliki cara yang sama tetapi mengungkapkan banyak hal. 
+	method yang sama tetapi yang membedakan adalah nilai parameternya.
+
+2.	Hubungan antara polymorphisme dengan Inhertitence dari segi Coding:
+	public void contoh (int x) {
+	System.out.println(x);
+	}
+	
+	public void contoh(double x) {
+		System.out.println(x);
+		}
+		
+	public void contoh(String x) {
+		System.out.println(x);
+		}
+		
+3.	Pada polymorphisme yang membedakannya adalah nilai parameter nya, meskipun methodnya sama. 
+	bisa juga sama dengan method overriding
